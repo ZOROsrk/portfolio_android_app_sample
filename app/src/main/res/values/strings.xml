@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="head">JAMES ROBERT</string>
+    <string name="shead">SANFORD,FL</string>
+    <string name="subhead">7185705700\nmail@kencordova.com\nwww.kencordova.com</string>
+    <string name="h1">EXPERTISE: </string>
+    <string name="p1">Leadership\nVendor Management\nOperations\nProject Management\nIT Management\nSystems Support</string>
+    <string name="h2">OPERATIONAL \nSKILLS: </string>
+    <string name="p2">Finance\nSales Operations\nBusiness to Business\nRetail\nFraud Prevention\nIndirect\nTraining\nInformation Technology </string>
+    <string name="h3">REFERENCES:</string>
+    <string name="p3">KRIS FANNIN\nCEO Founder intevate\nrisann@intevate.com\nTwitter sannin</string>
+    <string name="h4">PROFILE</string>
+    <string name="p4">I am a successful , aggressive leader with 20+ years of experience, of which\n15 years were with Top Fortune 15 organizations. I have an extensive portfolio of overhauling business processes and systems while prioritizing the customer and business objectives. In addition, I have passion for leading teams to surpass strategic goals while investing in their personal and professional growth</string>
+    <string name="h5">EXPERIENCE</string>
+    <string name="p5">SENIOR MANAGER CREDIT SYSTEMS , PROCESS STRATEGY\nVerizon Mar 2015 Present\nSUPERVISOR-COMPLIANCE , GOVERNANCE\nVerizon Jul 2015 Mar 2016</string>
+    <string name="h6">EDUCATION:</string>
+    <string name="p6">MASTERS IT MANAGEMENT WITH A SPECIALIZATION IN CYBER SECURITY \nColorado State University 2015 May 2017\n\nBACHELOR OF ARTS-BUSINESS\nFairlelgh Dinson University 20082013</string>
+
+
+
+
+
+
+</resources>
